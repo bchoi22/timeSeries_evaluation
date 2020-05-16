@@ -9,5 +9,5 @@ Method 2: Brute force method to find the most similar sections between 2 time se
 
 
 # Evaluating a portfolio of stocks (time series matrix) for levels of performance volatility
-Using the covariance to evaluate stock volatility and using weight vectors to measure the level of affect on the overall portfolio (performance_variability_v1.R).   
+Using the covariance to evaluate stock volatility and using weight vectors to measure the level of affect on the overall portfolio (portfolioPerformance_v1.R).   
 
